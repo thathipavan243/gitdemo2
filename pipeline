@@ -1,0 +1,4 @@
+
+node{
+    stage("code pull"){git 'https://github.com/thathipavan243/gitdemo2.git'}
+}
